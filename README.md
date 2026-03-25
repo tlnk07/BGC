@@ -59,7 +59,3 @@ pip install -r requirements.txt
 python main.py
 
 ```
-
-
-
-Viết readme như này cho background_cut
